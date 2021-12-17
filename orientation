@@ -1,0 +1,13 @@
+기초 과정 이후 
+문법에 충실한 것을 배울것.
+파이썬 고급문법을 학습 후 파이썬을 심도있게 하는것이 목표!
+중요파트 : generator,iterator,venv,object,lambda,coroutine
+
+python 깔아서 가상화 환경 만들어야함
+
+명령어 프롬포트 들어가서
+pyton -m venv python_ex
+python_ex 폴더 내 script폴더로 들어감.
+activate : 가상환경 활성화 
+
+명령어 : DIR
